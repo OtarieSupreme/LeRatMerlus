@@ -91,14 +91,16 @@ p {
   
 }
 
+
+
 .niceButton:hover {
   box-shadow: #121212 0 0 0 3px, transparent 0 0 0 0;
 }
 .niceButton img {
   background:   url("Ressources/Images/panier.png") no-repeat center;
   background-size: cover;
-  height: 60px;
   width: 90px;
+  height: 70px;
   border-radius: 20%;
   margin-left: 10px;
 }
@@ -125,4 +127,10 @@ ul {
 
 .niceList li:hover {
   box-shadow: 0.5rem 0.5rem 1rem 0.5rem rgb(0 0 0 / 0.15);
+}
+
+.produit{
+  height: 200px;
+  border-radius: 20%;
+  margin-right: 10px;
 }
