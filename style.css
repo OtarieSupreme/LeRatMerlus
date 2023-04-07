@@ -2,9 +2,9 @@
 html {
   scroll-behavior: smooth;
 }
-html body {
+body {
   color: black;
-  background:  lightblue url("/Ressources/Images/fond_flou.png") no-repeat center;
+  background:  lightblue url("/Ressources/Images/fond_flou.png") repeat center;
 }
 header {
   background-color: #f5f5f5;
