@@ -95,10 +95,15 @@ p {
   box-shadow: #121212 0 0 0 3px, transparent 0 0 0 0;
 }
 .niceButton img {
-    height: 60px;
-    border-radius: 20%;
-    margin-left: 10px;
+  background-image: url(/Ressources/Images/panier.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 60px;
+  width: 90px;
+  border-radius: 20%;
+  margin-left: 10px;
 }
+
 
 ul {
   color: #111;
